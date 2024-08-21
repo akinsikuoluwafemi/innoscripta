@@ -21,7 +21,10 @@ This project is a React TypeScript application built with Vite. Below are instru
 
    `docker run -d -p 3000:80 my-react-app`
 
-3: **Stopping the container**:
+3: Then Open http://localhost:3000/
+to have a look.
+
+4: **Stopping the container**:
 Get the docker id first
 `docker ps`.
 
