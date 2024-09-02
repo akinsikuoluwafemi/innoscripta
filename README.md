@@ -31,12 +31,19 @@ Get the docker id first
       docker stop <container_id>
 
 ## To run locally
+
 1: you must add a .env file in the root of the app
+
 ```
 VITE_NEWS_API_KEY=xxx
 VITE_GUARDIAN_API_KEY=xxx
 VITE_NYT_API_KEY=xxx
 ```
+
 2: npm install or yarn install
 
 3: npm run dev
+
+# APP Mockup
+
+![App Mockup](./public/appmockup.png)
